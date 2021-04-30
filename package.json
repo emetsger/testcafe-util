@@ -5,7 +5,7 @@
   "author": "Elliot Metsger <emetsger@jhu.edu>",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/emetsger/testcafe-util.git"
+    "url": "https://github.com/emetsger/testcafe-util.git"
   },
   "keywords": [
     "testcafe",
