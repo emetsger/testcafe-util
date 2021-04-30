@@ -12,7 +12,7 @@ jobs:
         with:
           node-version: '14'
           registry-url: 'https://npm.pkg.github.com'
-          scope: '@jhuidc'
+          scope: '@emetsger'
       - run: npm install
       - run: npm publish
         env:
