@@ -1,6 +1,6 @@
 {
   "name": "@emetsger/testcafe-util",
-  "version": "1.0.1",
+  "version": "1.0.3",
   "description": "Utility classes supporting testcafe tests for the jhu-idc repository",
   "author": "Elliot Metsger <emetsger@jhu.edu>",
   "repository": {
